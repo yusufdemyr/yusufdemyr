@@ -3,7 +3,8 @@
 
 [Simple Math Game with C#](https://gist.github.com/yusufdemyr/c5cb61ec336fff392b3523d6805c31ce)
 
-<!--
+
+
 ### 📊 Overall Stats
 
 <table>
@@ -27,7 +28,7 @@
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/yusufdemyr/count.svg" />
 </p>
--->
+
 <!--
 **yusufdemyr/yusufdemyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
