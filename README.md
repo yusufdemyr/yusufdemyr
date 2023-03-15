@@ -10,15 +10,15 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/yusufdemyr/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=yusufdemyr&hide_border=true&show_icons=true" alt="yusufdemyr's GitHub Stats" /> </a>
+      <img src=https://github-readme-stats.vercel.app/api?username=yusufdemyr&hide_border=true&show_icons=true&theme=dark#gh-dark-mode-only)" alt="Top Languages" />
     </td>
     <td>
-      <a href="https://github.com/yusufdemyr/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdemyr&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdemyr&hide_border=true&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
     </td>
   </tr>
   <tr>
-    <td colspan=2 align="center">
-      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=yusufdemyr&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="yusufdemyr's GitHub Readme Streak Stats" /> </a>
+    <td colspan=2 align="center">                            
+     <img src="https://streak-stats.demolab.com?user=yusufdemyr&theme=dark&hide_border=true" style="border: none;"/>
     </td>
   </tr>
 </table>
