@@ -16,11 +16,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdemyr&hide_border=true&langs_count=8&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan=2 align="center">                            
-     <img src="https://streak-stats.demolab.com?user=yusufdemyr&theme=dark&hide_border=true" style="border: none;"/>
-    </td>
-  </tr>
 </table>
 
 
