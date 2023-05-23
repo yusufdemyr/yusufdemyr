@@ -4,7 +4,7 @@
 [Simple Math Game with C#](https://gist.github.com/yusufdemyr/c5cb61ec336fff392b3523d6805c31ce)
 
 
-
+<!--
 ### 📊 Overall Stats
 
 <table>
@@ -17,7 +17,7 @@
     </td>
   </tr>
 </table>
-
+-->
 
 <p align="center"> 
   Visitors :<br>
